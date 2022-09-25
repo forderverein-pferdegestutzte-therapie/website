@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://forderverein-pferdegestutzte-therapie.github.io/website/sitemap.xml

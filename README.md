@@ -1,3 +1,0 @@
-# website
-
-Vereinswebsite via Publii

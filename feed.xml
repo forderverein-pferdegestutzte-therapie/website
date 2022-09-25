@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Förderverein für pferdegestützte Therapie Rhein-Ruhr e.V.</title>
+    <link href="https://forderverein-pferdegestutzte-therapie.github.io/website/feed.xml" rel="self" />
+    <link href="https://forderverein-pferdegestutzte-therapie.github.io/website" />
+    <updated>2022-09-25T14:41:22+02:00</updated>
+    <author>
+        <name>Johannes Neuhaus</name>
+    </author>
+    <id>https://forderverein-pferdegestutzte-therapie.github.io/website</id>
+
+    <entry>
+        <title>Testevent</title>
+        <author>
+            <name>Johannes Neuhaus</name>
+        </author>
+        <link href="https://forderverein-pferdegestutzte-therapie.github.io/website/testevent.html"/>
+        <id>https://forderverein-pferdegestutzte-therapie.github.io/website/testevent.html</id>
+            <category term="Veranstaltungen"/>
+
+        <updated>2022-09-25T14:41:22+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Testbeitrag</title>
+        <author>
+            <name>Johannes Neuhaus</name>
+        </author>
+        <link href="https://forderverein-pferdegestutzte-therapie.github.io/website/testbeitrag.html"/>
+        <id>https://forderverein-pferdegestutzte-therapie.github.io/website/testbeitrag.html</id>
+
+        <updated>2022-09-25T14:29:49+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
